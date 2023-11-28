@@ -3,7 +3,7 @@
 ## Description
 This project analyzes an Excel dataset of potential bike buyers, focusing on various demographic factors like age, gender, marital status, income, and their decision to purchase a bike. After cleaning and manipulating the data in Excel, including creating age bins, pivot tables and visualizations were created to derive insights. The dashboard highlights key metrics such as average income by gender, number of purchases by age group, and purchase frequency based on the distance from the shop. Additional filters like education level, marital status, and number of children are implemented for in-depth analysis.
 
-## Getting Started
+## Getting Started 
 
 ### Dependencies
 - Microsoft Excel or compatible software for data manipulation and visualization.
